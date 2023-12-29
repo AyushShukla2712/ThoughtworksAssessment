@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTestChecker" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-29T07:07:48" hostname="AYUSH" time="0.067">
+  <properties/>
+  <testcase name="testNegativeNumberFactorial()" classname="FactorialTestChecker" time="0.049"/>
+  <testcase name="testFactorialZero()" classname="FactorialTestChecker" time="0.004"/>
+  <testcase name="testFactorialOne()" classname="FactorialTestChecker" time="0.002"/>
+  <testcase name="testPositiveNumberFactorial()" classname="FactorialTestChecker" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
